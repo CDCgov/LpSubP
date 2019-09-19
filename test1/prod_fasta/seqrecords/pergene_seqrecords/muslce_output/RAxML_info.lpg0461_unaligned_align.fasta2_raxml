@@ -1,0 +1,95 @@
+
+
+IMPORTANT WARNING: Sequences lpg0461_NODE_5_length_243202_cov_109.201_ID_9_109_JMG-0163-1.blast.pair and lpg0461_140461_S25_L001_001_2_18_NML140461.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0461_NODE_5_length_243202_cov_109.201_ID_9_109_JMG-0163-1.blast.pair and lpg0461_161338_S27_L001_001_6_109_NML161338.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0461_NODE_5_length_243202_cov_109.201_ID_9_109_JMG-0163-1.blast.pair and lpg0461_NODE_7_length_237785_cov_113.976_ID_13_104_JMG-0108-1.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0461_NODE_7_length_233452_cov_78.9445_ID_13_145_JMG-0161-1.blast.pair and lpg0461_140662_S26_L001_001_6_105_NML140662.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0461_NODE_7_length_233452_cov_78.9445_ID_13_145_JMG-0161-1.blast.pair and lpg0461_NODE_8_length_178031_cov_67.7455_ID_15_105_JMG-0018-2.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0461_NODE_5_length_219446_cov_206.931303_133_medicine.blast.pair and lpg0461_NODE_4_length_237501_cov_64.5446_ID_7_104_JMG-0013-1.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0461_NODE_10_length_109135_cov_20.655789_85_hottub.blast.pair and lpg0461_160914_S29_L001_001_4_146_NML160914.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0461_NODE_10_length_109135_cov_20.655789_85_hottub.blast.pair and lpg0461_NODE_5_length_225299_cov_63.387991_133_clinic.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0461_NODE_10_length_109135_cov_20.655789_85_hottub.blast.pair and lpg0461_NODE_5_length_145203_cov_79.5523_ID_9_132_JMG-0004.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0461_NODE_10_length_109135_cov_20.655789_85_hottub.blast.pair and lpg0461_NODE_15_length_61140_cov_129.002_ID_29_25_JMG-0067-1.blast.pair are exactly identical
+
+IMPORTANT WARNING
+Found 10 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /scicomp/home/nej1/50scheme/test1//prod_fasta/seqrecords/pergene_seqrecords/muslce_output/lpg0461_unaligned_align.fasta2.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.9 released by Alexandros Stamatakis on July 20 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 49 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.00%
+
+RAxML Computation of pairwise distances
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 49
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /scicomp/home/nej1/50scheme/test1//prod_fasta/seqrecords/pergene_seqrecords/muslce_output/lpg0461_unaligned_align.fasta2.fasta -f x -m GTRGAMMA -p 8 -n lpg0461_unaligned_align.fasta2_raxml 
+
+
+
+Log Likelihood Score after parameter optimization: -1709.947885
+
+
+Computing pairwise ML-distances ...
+
+Time for pair-wise ML distance computation of 153 distances: 0.008203 seconds
+
+Distances written to file: /scicomp/home/nej1/50scheme/test1/prod_fasta/seqrecords/pergene_seqrecords/muslce_output/RAxML_distances.lpg0461_unaligned_align.fasta2_raxml

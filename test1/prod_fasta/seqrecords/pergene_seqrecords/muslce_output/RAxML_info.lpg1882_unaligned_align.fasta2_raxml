@@ -1,0 +1,98 @@
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_53_length_13562_cov_67.9146_ID_105_13_JMG-0004.blast.pair and lpg1882_160914_S29_L001_001_1_177_NML160914.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_53_length_13562_cov_67.9146_ID_105_13_JMG-0004.blast.pair and lpg1882_NODE_3_length_410003_cov_121.588_ID_5_183_JMG-0067-1.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_53_length_13562_cov_67.9146_ID_105_13_JMG-0004.blast.pair and lpg1882_NODE_12_length_99681_cov_19.821875_2_hottub.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_53_length_13562_cov_67.9146_ID_105_13_JMG-0004.blast.pair and lpg1882_NODE_7_length_197255_cov_59.280792_2_clinic.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_23_length_48061_cov_54.4198_ID_45_32_JMG-0013-1.blast.pair and lpg1882_NODE_33_length_8273_cov_173.248292_3_medicine.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_8_length_209149_cov_77.1059_ID_15_156_JMG-0161-1.blast.pair and lpg1882_140662_S26_L001_001_7_155_NML140662.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_8_length_209149_cov_77.1059_ID_15_156_JMG-0161-1.blast.pair and lpg1882_140461_S25_L001_001_78_4_NML140461.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_8_length_209149_cov_77.1059_ID_15_156_JMG-0161-1.blast.pair and lpg1882_NODE_6_length_209017_cov_62.1378_ID_11_156_JMG-0018-2.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_2_length_310675_cov_94.1536_ID_3_157_JMG-0163-1.blast.pair and lpg1882_161338_S27_L001_001_9_23_NML161338.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_2_length_310675_cov_94.1536_ID_3_157_JMG-0163-1.blast.pair and lpg1882_NODE_4_length_329366_cov_94.3649_ID_7_156_JMG-0108-1.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg1882_NODE_2_length_310675_cov_94.1536_ID_3_157_JMG-0163-1.blast.pair and lpg1882_NODE_4_length_243999_cov_94.4642_ID_7_156_JMG-0158-1.blast.pair are exactly identical
+
+IMPORTANT WARNING
+Found 11 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /scicomp/home/nej1/50scheme/test1//prod_fasta/seqrecords/pergene_seqrecords/muslce_output/lpg1882_unaligned_align.fasta2.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.9 released by Alexandros Stamatakis on July 20 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 15 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.00%
+
+RAxML Computation of pairwise distances
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 15
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /scicomp/home/nej1/50scheme/test1//prod_fasta/seqrecords/pergene_seqrecords/muslce_output/lpg1882_unaligned_align.fasta2.fasta -f x -m GTRGAMMA -p 8 -n lpg1882_unaligned_align.fasta2_raxml 
+
+
+
+Log Likelihood Score after parameter optimization: -683.350274
+
+
+Computing pairwise ML-distances ...
+
+Time for pair-wise ML distance computation of 153 distances: 0.005467 seconds
+
+Distances written to file: /scicomp/home/nej1/50scheme/test1/prod_fasta/seqrecords/pergene_seqrecords/muslce_output/RAxML_distances.lpg1882_unaligned_align.fasta2_raxml

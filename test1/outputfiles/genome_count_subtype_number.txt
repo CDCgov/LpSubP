@@ -1,0 +1,2 @@
+total genome count:18
+subtype count:16

@@ -1,0 +1,95 @@
+
+
+IMPORTANT WARNING: Sequences lpg0785_140461_S25_L001_001_14_5_NML140461.blast.pair and lpg0785_NODE_2_length_357163_cov_50.8438_ID_3_110_JMG-0032-1.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0785_NODE_17_length_69653_cov_78.9646_ID_33_56_JMG-0158-1.blast.pair and lpg0785_161338_S27_L001_001_4_276_NML161338.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0785_NODE_6_length_242411_cov_106.851_ID_11_60_JMG-0163-1.blast.pair and lpg0785_NODE_2_length_237391_cov_75.3638_ID_3_183_JMG-0004.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0785_NODE_6_length_242411_cov_106.851_ID_11_60_JMG-0163-1.blast.pair and lpg0785_NODE_3_length_269533_cov_60.485293_227_clinic.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0785_NODE_6_length_242411_cov_106.851_ID_11_60_JMG-0163-1.blast.pair and lpg0785_NODE_15_length_77503_cov_19.987989_60_hottub.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0785_NODE_6_length_242411_cov_106.851_ID_11_60_JMG-0163-1.blast.pair and lpg0785_NODE_18_length_78898_cov_180.833750_36_medicine.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0785_NODE_6_length_242411_cov_106.851_ID_11_60_JMG-0163-1.blast.pair and lpg0785_NODE_4_length_368370_cov_127.143_ID_7_296_JMG-0067-1.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0785_NODE_6_length_242411_cov_106.851_ID_11_60_JMG-0163-1.blast.pair and lpg0785_NODE_7_length_180464_cov_64.0686_ID_13_9_JMG-0018-2.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0785_NODE_6_length_242411_cov_106.851_ID_11_60_JMG-0163-1.blast.pair and lpg0785_NODE_3_length_400272_cov_101.928_ID_5_263_JMG-0108-1.blast.pair are exactly identical
+
+
+IMPORTANT WARNING: Sequences lpg0785_NODE_6_length_242411_cov_106.851_ID_11_60_JMG-0163-1.blast.pair and lpg0785_NODE_8_length_165539_cov_57.3351_ID_15_13_JMG-0013-1.blast.pair are exactly identical
+
+IMPORTANT WARNING
+Found 10 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /scicomp/home/nej1/50scheme/test1//prod_fasta/seqrecords/pergene_seqrecords/muslce_output/lpg0785_unaligned_align.fasta2.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.9 released by Alexandros Stamatakis on July 20 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 29 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.00%
+
+RAxML Computation of pairwise distances
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 29
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /scicomp/home/nej1/50scheme/test1//prod_fasta/seqrecords/pergene_seqrecords/muslce_output/lpg0785_unaligned_align.fasta2.fasta -f x -m GTRGAMMA -p 8 -n lpg0785_unaligned_align.fasta2_raxml 
+
+
+
+Log Likelihood Score after parameter optimization: -1559.847789
+
+
+Computing pairwise ML-distances ...
+
+Time for pair-wise ML distance computation of 153 distances: 0.007487 seconds
+
+Distances written to file: /scicomp/home/nej1/50scheme/test1/prod_fasta/seqrecords/pergene_seqrecords/muslce_output/RAxML_distances.lpg0785_unaligned_align.fasta2_raxml
