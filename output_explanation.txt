@@ -1,0 +1,54 @@
+In the folder named "outputfiles" in your test folder, you will find 6 output result files of your uploaded data.
+Please read the descriptions below.
+
+1. subtype_genomecount.pdf
+X axis shows the subtype and Y axis shows the number of genomes falling into that subtype.
+If you want to know the allele type in detail, you can go subtype_genomeid_count.txt file.
+
+2. genome_subtype_count.tsv
+First column shows you allele types for subtypes. 
+Second column shows you the genome name, the third one shows you the count of genomes which have this certain subtype.
+
+3. notest
+I recommend to open this with excel or notepad++ to read easily.
+It shows the geneID and genomeID when absence of gene occurs.
+In [ ], you can see the result of blast.
+If it is empty, it is true absence and if there are letters, it means either
+truncated or assembly was not correct.
+
+4. allstats.csv
+General statistics summary according to 50 loci(Mean,Max,Min,Std)
+It is based on ML distances 
+Higher value means more variances among alleles.
+
+5. allele_diff_matrix.csv
+Result allele difference comparison between genome. All allele differences were normalized by the number of 
+comparisons for each locus
+
+
+6. dendrogram.pdf
+Dendrogram shows the clusters at the right end.
+Vertical lines are cluster merges and horizontal lines tell you which clustes were part of merge forming
+that new cluster. 
+This is also generated using matrix used in heatmap generation.
+It is based on UPGMA. It corresponds to the similarity of genomes and not particularly represent 
+the phylogenetic distance.
+
+7 .genome_profile_allele_id.csv
+This table is the similar to the result from bionumerics.
+For each isolate in the row, each column shows the allele ID for 50 loci.
+
+8. heatmap.pdf
+Based on the allele difference matrix generated.
+
+9. MLdistancematrix
+This table is pairwise ML distancematrix from the output of RAxML.
+It is generated for each locus.
+
+10.genome_count_subtype_number.txt
+This shows the total number of genomes analyzed and total number of subtypes in 
+analyzed set. 
+
+
+If you have questions, please contact me to nej1@cdc.gov.
+

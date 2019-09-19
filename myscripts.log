@@ -1,0 +1,124 @@
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+2019-09-04 15:10:48,113 Started
+2019-09-04 15:11:29,239 Gene prediction is done
+2019-09-04 15:17:50,197 Getting sequence is done
+2019-09-04 15:18:38,259 Alignment is done
+2019-09-04 15:18:44,414 Stats for each locus were obtained
+2019-09-04 15:18:54,244 Distance matrices were generated
+2019-09-04 15:19:21,381 Unique allele was called
+2019-09-04 15:19:21,954 Allele profile was created for each genome
+2019-09-04 15:19:23,142 N/A alleles were in table
+2019-09-04 15:19:28,256 Dendrogram and heatmap were generated
+2019-09-04 15:19:29,260 Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+2019-09-09 14:54:50,060 Started
+2019-09-09 14:55:31,694 Gene prediction is done
+2019-09-09 15:04:10,747 Getting sequence is done
+2019-09-09 15:05:08,239 Alignment is done
+2019-09-09 15:05:15,176 Stats for each locus were obtained
+2019-09-09 15:05:25,970 Distance matrices were generated
+2019-09-09 15:05:55,334 Unique allele was called
+2019-09-09 15:05:55,964 Allele profile was created for each genome
+2019-09-09 15:05:57,164 N/A alleles were in table
+2019-09-09 15:05:59,238 Heatmap was generated
+2019-09-09 15:06:03,121 Dendrogram and subtype count graph generated
+2019-09-09 15:06:04,393 Finished
+2019-09-11 10:52:10,115 Started
+2019-09-11 10:53:00,042 Gene prediction is done
+2019-09-11 11:05:48,066 Getting sequence is done
+2019-09-11 11:06:49,834 Alignment is done
+2019-09-11 11:07:10,064 Stats for each locus were obtained
+2019-09-11 11:07:23,765 Distance matrices were generated
+2019-09-11 11:08:07,290 Unique allele was called
+2019-09-11 11:08:07,895 Allele profile was created for each genome
+2019-09-11 11:08:12,098 N/A alleles were in table
+2019-09-11 11:08:21,765 Heatmap was generated
+2019-09-11 11:08:29,273 Dendrogram and subtype count graph generated
+INFO:root:Started
+INFO:root:Finished
