@@ -1,7 +1,7 @@
 import os
 import sys
 
-os.system("module unload Python/3.6.1")
+
 script=sys.argv[0]
 base_dir=sys.argv[1]+"/prod_fasta/seqrecords/pergene_seqrecords/muslce_output/"
 coregenome_dir=sys.argv[1]+"/coregene/"
