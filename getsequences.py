@@ -13,7 +13,6 @@ def MakeBlastDB():
          genome=os.path.join(base_dir,genome)
          base=os.path.basename(genome)
          basename=base.split(".")[0]
-         os.system("module load ncbi-blast+/LATEST") 
          subprocess.call(["makeblastdb","-in",genome,"-dbtype","nucl","-out","./output"+"/"+basename])
 MakeBlastDB()
 
