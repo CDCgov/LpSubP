@@ -17,7 +17,7 @@ os.chdir(base_dir+"/outputfiles")
 msg=EmailMessage()
 msg['Subject']="LpsubP result files"
 msg['From'] = "nej1@cdc.gov"
-msg['To'] = "nej1@cdc.gov"
+msg['To'] = "nej1@cdc.gov",sys.argv[2]
 msg.preamble="LpsubP result files for"+str(sys.argv[1].split("/")[::-1][0])
 
 message = """
