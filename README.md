@@ -8,10 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-module load BBMap/35.92
-
-module load SPAdes/3.9.0
-
 module load Python/3.7
 
 module load ncbi-blast+/LATEST
