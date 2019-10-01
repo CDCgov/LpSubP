@@ -1,6 +1,5 @@
 # Project Title
-
-50Core genome Subtyping 
+Legeonella pneumophila Subtyping Pipeline(LpSubP)
 
 ## Getting Started
 
