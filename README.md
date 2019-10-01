@@ -25,9 +25,9 @@ pip install -r requirements.txt --user
 
 
 ``` 
-git clone https://git.biotech.cdc.gov/nej1/50scheme.git
+git clone https://github.com/CDCgov/lpsubp.git
 
-cd ~/50scheme/
+cd ~/lpsubp/
 
 python pipe1.py ~/50scheme/test1/
 
