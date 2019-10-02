@@ -1,7 +1,7 @@
 # Project Title
 Legeonella pneumophila Subtyping Pipeline(LpSubP)
 
-## Getting Started
+## Getting Started for github
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -32,6 +32,12 @@ cd ~/lpsubp/
 python pipe1.py ~/50scheme/test1/
 
 ```
+
+## Quick start for Dockerfile
+
+### singularity
+
+### Docker
 
 
 
