@@ -5,7 +5,7 @@ You can run pipeline through
 
 1) Clone git repository 
 
-or
+         or
 
 2) Dockerimage without clone repository
 
@@ -51,8 +51,8 @@ module load singularity
 
 singularity pull docker://supark87/lpsubp-onprocess
 
-singularity run -B $(pwd)/inputfile/://data/inputfile/(space 
-here)lpsubp-onprocess.simg(spacehere)//data/inputfile
+singularity run -B $(pwd)/inputfile/://shared/inputfile/(space 
+here)lpsubp-onprocess.simg(spacehere)//shared/inputfile
 
 ``` 
 
@@ -62,7 +62,7 @@ here)lpsubp-onprocess.simg(spacehere)//data/inputfile
 
 docker pull supark87/lpsubp-onprocess
 
-docker run -it -v $(pwd):/shared/inputfile/ dockerfile_gittest /shared/inputfile/
+docker run -it -v $(pwd):/shared/inputfile/ lpsubp-onprocess /shared/inputfile/
 
 
 ``` 
