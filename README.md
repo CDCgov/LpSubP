@@ -1,6 +1,14 @@
 # Project Title
 Legeonella pneumophila Subtyping Pipeline(LpSubP)
 
+You can run pipeline through 
+
+1) Clone git repository 
+
+or
+
+2) Dockerimage without clone repository
+
 ## Getting Started for github
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -21,7 +29,7 @@ module load prodigal/2.63
 
 pip install -r requirements.txt --user
 
-## Quick Start
+## Quick Start for Git
 
 
 ``` 
@@ -37,7 +45,28 @@ python pipe1.py ~/50scheme/test1/
 
 ### singularity
 
+``` 
+
+module load singularity
+
+singularity pull docker://supark87/lpsubp-onprocess
+
+singularity run -B $(pwd)/inputfile/://data/inputfile/(space 
+here)lpsubp-onprocess.simg(spacehere)//data/inputfile
+
+``` 
+
 ### Docker
+
+``` 
+
+docker pull supark87/lpsubp-onprocess
+
+docker run -it -v $(pwd):/shared/inputfile/ dockerfile_gittest /shared/inputfile/
+
+
+``` 
+
 
 
 
