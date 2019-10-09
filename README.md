@@ -5,8 +5,6 @@ You can run pipeline through
 
 1) Clone git repository 
 
-         or
-
 2) Dockerimage without clone repository
 
 ## Getting Started for github
