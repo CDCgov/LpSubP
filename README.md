@@ -49,7 +49,7 @@ module load singularity
 
 singularity pull docker://supark87/lpsubp-onprocess
 
-singularity run -B $(pwd)/inputfile/://shared/inputfile/(space here)lpsubp-onprocess.simg(spacehere)//shared/inputfile
+singularity run -B $(pwd)/inputfile/://data/inputfile/(space here)lpsubp-onprocess.simg(spacehere)//data/inputfile
 
 ``` 
 
@@ -59,7 +59,7 @@ singularity run -B $(pwd)/inputfile/://shared/inputfile/(space here)lpsubp-onpro
 
 docker pull supark87/lpsubp-onprocess
 
-docker run -it -v $(pwd):/shared/inputfile/ supark87/lpsubp-onprocess /shared/inputfile/
+docker run -it -v $(pwd):/data/inputfile/ supark87/lpsubp-onprocess /data/inputfile/
 
 
 ``` 
