@@ -59,7 +59,7 @@ singularity run -B $(pwd)/inputfile/://data/inputfile/(space here)lpsubp-onproce
 
 docker pull supark87/lpsubp-onprocess
 
-docker run -it -v $(pwd):/data/inputfile/ supark87/lpsubp-onprocess /data/inputfile/
+docker run -it -v $(pwd)/inputfile/:/data/inputfile/ supark87/lpsubp-onprocess /data/inputfile/
 
 
 ``` 
