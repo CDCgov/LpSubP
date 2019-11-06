@@ -47,9 +47,9 @@ python pipe1.py ~/50scheme/test1/
 
 module load singularity
 
-singularity pull docker://supark87/lpsubp-onprocess
+singularity pull docker://supark87/dockerfile_gittest
 
-singularity run -B $(pwd)/inputfile/://data/inputfile/(space here)lpsubp-onprocess.simg(spacehere)//data/inputfile
+singularity run -B $(pwd)/inputfile/://data/inputfile/(space here)dockerfile_gittest.simg(spacehere)//data/inputfile
 
 ``` 
 
@@ -57,9 +57,9 @@ singularity run -B $(pwd)/inputfile/://data/inputfile/(space here)lpsubp-onproce
 
 ``` 
 
-docker pull supark87/lpsubp-onprocess
+docker pull supark87/dockerfile_gittest
 
-docker run -it -v $(pwd)/inputfile/:/data/inputfile/ supark87/lpsubp-onprocess /data/inputfile/
+docker run -it -v $(pwd)/inputfile/:/data/inputfile/ supark87/dockerfile_gittest /data/inputfile/
 
 
 ``` 
