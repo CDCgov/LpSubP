@@ -59,7 +59,7 @@ singularity run -B $(pwd)/inputfile/://data/inputfile/(space here)dockerfile_git
 
 docker pull supark87/dockerfile_gittest
 
-docker run -it -v $(pwd)/inputfile/:/data/inputfile/ supark87/dockerfile_gittest /data/inputfile/
+docker run -it -v $(pwd)/inputfile/:/data/inputfile/ supark87/dockerfile_gittest /data/inputfile/ "your email inside of quotes"
 
 
 ``` 
