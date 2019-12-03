@@ -1,5 +1,4 @@
-# Project Title
-Legeonella pneumophila Subtyping Pipeline(LpSubP)
+# Legeonella pneumophila Subtyping Pipeline(LpSubP)
 
 You can run pipeline through 
 
